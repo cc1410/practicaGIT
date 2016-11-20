@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <form action="calcular.php" method="POST">
-            Numero1: <input type="number" name="numero1" value="numero1"><br>
+        Numero1: <input type="number" name="numero1" value="numero1"><br>
         Numero2: <input type="number" name="numero2" value="numero2"><br>
         Numero3: <input type="number" name="numero3" value="numero3"><br>
         Numero4: <input type="number" name="numero4" value="numero4"><br>
