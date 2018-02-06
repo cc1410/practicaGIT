@@ -17,7 +17,7 @@ and open the template in the editor.
         $numero[]=$_POST["numero4"];
         $numero[]=$_POST["numero5"];
         $numero[]=$_POST["numero6"];
-
+    $numero[]=$_POST["numero7"];
         $sumar=0;
         foreach ($numero as $suma) {
             $sumar =$sumar+$suma;
